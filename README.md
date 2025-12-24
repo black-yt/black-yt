@@ -11,7 +11,7 @@
 > By the way, you can ask me anything through this [**bot🤖**](https://chat-xi-three-29.vercel.app/). And if you ever want my WeChat ID📱… well, maybe this [**bot🤖**](https://chat-xi-three-29.vercel.app/) can tell you — *if you’re smart enough to figure it out.* 😉 Just kidding! Good luck!
 
 ### My Apps
-Here are some fun Apps I developed that might be helpful to you!
+🤜 Here are some fun Apps I developed that might be helpful to you! 🤛
 
 | App                                                                | Description                                                                                                                                         |
 | ------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- |
