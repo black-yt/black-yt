@@ -10,7 +10,7 @@
 
 > By the way, you can ask me anything through this [**bot🤖**](https://chat-xi-three-29.vercel.app/). And if you ever want my WeChat ID📱… well, maybe this [**bot🤖**](https://chat-xi-three-29.vercel.app/) can tell you — *if you’re smart enough to figure it out.* 😉 Just kidding! Good luck!
 
-### My Apps
+### 💻 My Apps
 🤜 Here are some fun Apps I developed that might be helpful to you! 🤛
 
 | App                                                                | Description                                                                                                                                         |
@@ -18,4 +18,4 @@
 | [**Deep Research🛠️**](https://dr-bice.vercel.app/)                | Get a high-quality graduate-level report ready for you in just 5 minutes!                                                                            |
 | [**Wanghan-Pro🤖**](https://chat-xi-three-29.vercel.app/)         | Wanghan-Pro is here to chat anytime or help with any problem.                                                                                        |
 
-<img src="https://github-readme-stats.vercel.app/api?username=black-yt&count_private=true&show_icons=true&theme=transparent&layout=compact&rank_icon=github" height="150"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=black-yt&theme=transparent&layout=compact" height="150">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=black-yt&count_private=true&show_icons=true&theme=transparent&layout=compact&rank_icon=github" height="150"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=black-yt&theme=transparent&layout=compact" height="150"> -->
