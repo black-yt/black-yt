@@ -18,6 +18,6 @@
 | [**Iris🧿**](https://github.com/black-yt/IrisGUI)                                        | Your AI-powered hands and eyes for desktop automation.                                                                                               |
 | [**StructAI🚀**](https://github.com/black-yt/structai)                                   | A pip library for LLM Agent interaction, memory, concurrency, and evaluation.                                                                        |
 | [**ResearchClaw🔬**](https://internscience.github.io/ResearchClawBench-Home/)            | Benchmark agents on end-to-end auto research — from Re-Discovery to New-Discovery.                                                                   |
-| [**AutoR✏️**](https://github.com/AutoX-AI-Labs/AutoR)                                    | A research harness that turns long, messy work into reproducible runs.                                                                               |
+| [**AutoR✏️**](https://github.com/AutoX-AI-Labs/AutoR)                                    | A auto research harness that turns long, messy work into reproducible runs.                                                                               |
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=black-yt&count_private=true&show_icons=true&theme=transparent&layout=compact&rank_icon=github" height="150"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=black-yt&theme=transparent&layout=compact" height="150"> -->
