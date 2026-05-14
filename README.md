@@ -18,7 +18,7 @@
 | [**Iris🧿**](https://github.com/black-yt/IrisGUI)                                        | Your AI-powered hands and eyes for desktop automation.                                                                                               |
 | [**StructAI🚀**](https://github.com/black-yt/structai)                                   | A pip library for LLM Agent interaction, memory, concurrency, and evaluation.                                                                        |
 | [**ResearchClaw🔬**](https://internscience.github.io/ResearchClawBench-Home/)            | Benchmark agents on end-to-end auto research — from Re-Discovery to New-Discovery.                                                                   |
-| [**AutoR✏️**](https://github.com/AutoX-AI-Labs/AutoR)                                    | A auto research harness that turns long, messy work into reproducible runs.                                                                          |
+| [**AutoR✏️**](https://github.com/AutoX-AI-Labs/AutoR)                                    | An auto research harness that turns long, messy work into reproducible runs.                                                                         |
 | [**Harness🎠**](https://huggingface.co/spaces/InternScience/ResearchHarness)             | A lightweight, general-purpose harness for tool-using LLM agents.                                                                                    |
 
 
